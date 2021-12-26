@@ -7,7 +7,7 @@ Just an engineering student with too many interests for my own good.
 
 - 📚 I’m currently learning more about *Digital Signal Processing (DSP)*
 
-- 👀 Some of interests include (but are not limited to):
+- 👀 Some of my interests include (but are not limited to :P)
   - 🎛 *Embedded Systems*
   - 🚀 *Scientific Computing*
   - 🧮 *Applied Math*
