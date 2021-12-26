@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**gunvirranu/gunvirranu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">🌊 Heyo! I'm Gunvir</h2>
 
-Here are some ideas to get you started:
+Just an engineering student with too many interests for my own good.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌎 I’m (slowly) working on [gelocus](https://github.com/gunvirranu/gelocus)
+
+- 📚 I’m currently learning more about *Digital Signal Processing (DSP)*
+
+- 👀 Some of interests include (but are not limited to):
+  - 🎛 *Embedded Systems*
+  - 🚀 *Scientific Computing*
+  - 🧮 *Applied Math*
+  - 💻 *Digital Design (RTL)*
+  - 👾 *Computer Graphics*
+
+- 📫 Hit me up at *mail@gunvirranu.com*, *gunvirranu@protonmail.com*, or [my LinkedIn](https://www.linkedin.com/in/gunvirranu) for any reason
