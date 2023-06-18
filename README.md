@@ -11,11 +11,6 @@
   - scientific computing
 
 ### my core design values:
-- robust interfaces (of any kind) are key to good engineering
+- robust interfaces are key to good engineering
 - good visual design has immense functional value
 - aiming for simplicity and pragmatism is usually a safe bet
-
-### some areas i find fascinating:
-- applied math
-- computer graphics
-- performance optimisation
