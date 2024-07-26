@@ -2,15 +2,15 @@
 <h2 align="center">🌊 Hello! I'm Gunvir</h2>
 
 ### little known facts about myself:
-- i dabble in engineering
-- i studied engsci aerospace at the university of toronto
-- i have experience with:
-  - systems design & integration
-  - embedded software
-  - control systems
-  - scientific computing
+- i studied aerospace engineering science at the university of toronto
+- things i dabble in:
+  - embedded software & hardware
+  - systems design, architecture, & integration
+  - control systems & physics-based models
+  - scientific & numerical computing
+- currently work on systems integration & firmware for EV thermal management
 
-### my core design values:
-- robust interfaces are key to good engineering
+### some core values:
+- robust interfaces lead to robust systems
 - good visual design has immense functional value
-- aiming for simplicity and pragmatism is usually a safe bet
+- simplicity and pragmatism are usually a safe bet
