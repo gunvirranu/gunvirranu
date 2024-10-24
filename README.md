@@ -7,6 +7,6 @@
 - things I dabble in:
   - embedded software & hardware
   - systems design, architecture, & integration
-  - real-time control & physics-based models
+  - real-time controls & physics-based models
   - scientific & numerical computing
 - currently work on firmware systems integration for EV thermal management
